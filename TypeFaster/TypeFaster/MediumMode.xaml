@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TypeFaster.MediumMode">
+    <AbsoluteLayout BackgroundColor="Black">
+
+        <BoxView x:Name="boxy" Color="White" CornerRadius="20" AbsoluteLayout.LayoutBounds="0.5,0.1,350,50" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Label x:Name="lbl" Text=" " XAlign="Center" FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.1,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
+
+        <BoxView Color="White" CornerRadius="20" AbsoluteLayout.LayoutBounds="0.5,0.3,300,80" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Entry x:Name="entry" BackgroundColor="White"
+               AbsoluteLayout.LayoutBounds="0.5,0.3,250,50" AbsoluteLayout.LayoutFlags="PositionProportional" PropertyChanged="entry_PropertyChanged"></Entry>
+
+        <Label x:Name="yourscore" Text="Your Score:" XAlign="Center" FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.5,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
+        <BoxView Color="White" CornerRadius="20" AbsoluteLayout.LayoutBounds="0.5,0.8,350,50" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+        <Label x:Name="score" Text=" " FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.6,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
+
+        <Label x:Name="time" FontSize="30" BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,0.8,300,50" AbsoluteLayout.LayoutFlags="PositionProportional"></Label>
+
+
+        <Button x:Name="btn" Text="New Game" FontSize ="Medium" BackgroundColor="Silver" TextColor="white" Clicked="Btn_Clicked"
+                AbsoluteLayout.LayoutBounds="0,1,1,50" AbsoluteLayout.LayoutFlags="PositionProportional, WidthProportional" />
+
+
+
+    </AbsoluteLayout>
+</ContentPage>

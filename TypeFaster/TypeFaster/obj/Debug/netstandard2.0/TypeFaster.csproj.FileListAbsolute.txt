@@ -1,0 +1,16 @@
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\bin\Debug\netstandard2.0\TypeFaster.deps.json
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\bin\Debug\netstandard2.0\TypeFaster.dll
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\bin\Debug\netstandard2.0\TypeFaster.pdb
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\TypeFaster.csprojAssemblyReference.cache
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\EasyMode.xaml.g.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\TypeFaster.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\TypeFaster.AssemblyInfoInputs.cache
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\TypeFaster.AssemblyInfo.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\TypeFaster.dll
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\TypeFaster.pdb
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\HardMode.xaml.g.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\MediumMode.xaml.g.cs
+C:\Users\Wojtek Pogorzelski\OneDrive - GMIT\YEAR 2\MobileApps\TypeFaster\TypeFaster\TypeFaster\obj\Debug\netstandard2.0\About.xaml.g.cs
